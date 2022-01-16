@@ -2,6 +2,7 @@
 My pre-graduate Thesis on the subject of Machine Learning for Survival of Titanic passengers.
 
 Short Description:
+
 · The Thesis is mainly focused on implementing and evaluating different ML algorithms (Neural Network, Decision Trees, Perceptron, Naïve Bayes, …) 
   using a Dataset of characteristics for the Titanic passengers. Much attention was needed for the Dataset itself. Cleaning, processing and 
   visualizing the data was a vital step in helping the Predictive Models train themselves. The output of predictions was measured in Accuracy and 
